@@ -1,6 +1,6 @@
 ﻿<?php
 $errors  = '';
-$myemail = 'you@yoursite.com';
+$myemail = 'ebdtv4@gmail.com';
 if (empty($_POST['name']) || empty($_POST['email']) || empty($_POST['subject']) || empty($_POST['message'])) {
     $errors .= "\n Error: Required Field";
 }
